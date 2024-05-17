@@ -1,0 +1,45 @@
+add persoana Ana;2024-05-09T14:28:34.628518800
+add persoana Radu Mihai;2024-05-09T14:33:47.675592600
+citire delivery driver Radu Mihai;2024-05-09T14:34:00.325598400
+citire client Ana;2024-05-09T14:34:52.443284500
+stergere persoana Ana;2024-05-09T14:35:01.134141800
+add persoana Maria Roman;2024-05-09T14:36:23.712430200
+stergere persoana Ana;2024-05-09T17:16:06.939396400
+stergere persoana Ana;2024-05-09T17:31:11.282485700
+stergere persoana Ana;2024-05-09T17:38:33.761063500
+update persoana Maria Roman;2024-05-09T17:42:07.074119100
+add persoana ii;2024-05-09T17:43:41.326777
+citire delivery driver ii;2024-05-09T17:43:49.772344400
+citire delivery driver ii;2024-05-09T17:45:11.627045800
+update persoana ii;2024-05-09T17:45:32.848193400
+citire delivery driver ii;2024-05-09T17:45:39.320952600
+stergere persoana ii;2024-05-09T17:45:51.600138900
+citire delivery driver ii;2024-05-09T17:46:00.988542900
+add produs Cheeseburger;2024-05-09T18:44:35.202418
+add produs Loaded Fries;2024-05-09T18:46:16.346924600
+add produs Choco Bomb;2024-05-09T18:47:45.175916900
+add produs a;2024-05-09T18:48:36.896555800
+citire delivery driver a;2024-05-09T18:49:10.594254
+citire produs a;2024-05-09T18:49:19.844906300
+update produs a;2024-05-09T18:55:26.173964700
+stergere produs a;2024-05-09T18:55:57.302032300
+citire delivery driver Radu Mihai;2024-05-09T20:05:11.839184100
+add persoana Enescu Dan;2024-05-09T20:09:46.397051700
+add persoana Andrei Mihai;2024-05-17T17:47:20.524990900
+citire client sl;2024-05-17T17:47:28.471372200
+citire client Andrei Mihai;2024-05-17T17:47:38.131467
+update persoana Andrei Mihai;2024-05-17T17:48:43.752207700
+add persoana ff;2024-05-17T17:49:51.390639900
+stergere persoana ff;2024-05-17T17:50:01.373665200
+add persoana Ana Popescu;2024-05-17T18:32:47.195193100
+add persoana Ion Manole;2024-05-17T18:34:50.179664
+citire delivery driver Enescu Dan;2024-05-17T18:34:59.648455700
+citire produs Choco Bomb;2024-05-17T18:35:19.777519900
+add produs Soft Cherry;2024-05-17T18:36:29.844532200
+add persoana Maria Roman;2024-05-17T18:58:07.208252800
+add persoana Radu Mihai;2024-05-17T18:59:35.864079800
+add produs Cheeseburger;2024-05-17T19:00:22.388406
+add produs Loaded Fries;2024-05-17T19:01:25.981330600
+add produs Soft Cherry;2024-05-17T19:02:19.682678700
+update produs Loaded Fries;2024-05-17T19:12:48.803843800
+stergere produs Soft Cherry;2024-05-17T19:13:40.823661
